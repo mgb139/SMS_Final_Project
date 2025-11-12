@@ -8,4 +8,4 @@ Smart Trash Containers: https://data.wprdc.org/dataset/smart-trash-containers/re
 Monthly Criminal Activity: https://data.wprdc.org/dataset/monthly-criminal-activity-dashboard/resource/bd41992a-987a-4cca-8798-fbe1cd946b07
 
 **Overview:**
-We are measuring the amount of general safety when it comes to the different neighborhoods of Pittsburgh, in particular, public and enviornmental safety.
+We are measuring the quality of life when it comes to the different neighborhoods of Pittsburgh, in particular, the trash index in terms of the evniornment, buildings, and criminals.
