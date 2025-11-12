@@ -1,3 +1,6 @@
+
+# SMS_Final_Project
+
 # SMS_Final_Project
 **Team name:** SMS
 **Members:** Mariah Babski (mgb139@pitt.edu), Shirin Khandare (sak811@pitt.edu), Susan Agbokah (sua117@pitt.edu)
@@ -10,5 +13,7 @@ Monthly Criminal Activity: https://data.wprdc.org/dataset/monthly-criminal-activ
 **Overview:**
 We are measuring the quality of life when it comes to the different neighborhoods of Pittsburgh, in particular, the trash index in terms of the evniornment, buildings, and criminals.
 
+
 **Best Neighborhood:**
 With our three datasets, we have an overlap with the Allegheny neighborhood where there are minimal vancant buildings, a decent amount of smart trash containers, and a lower crime rate compared to other neighborhoods in Pittsburgh. 
+
